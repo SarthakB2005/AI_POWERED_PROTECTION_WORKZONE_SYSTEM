@@ -56,3 +56,7 @@ IN ≠ OUT → System OFF
 
 ## 🔄 Flowchart
 
+Click the image below to view full-size 👇
+
+[![Flowchart](project/images/Working.jpeg)](project/images/Working.jpeg)
+
