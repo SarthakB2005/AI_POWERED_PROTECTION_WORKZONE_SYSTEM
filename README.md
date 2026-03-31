@@ -58,5 +58,5 @@ IN ≠ OUT → System OFF
 
 Click the image below to view full-size 👇
 
-[![Flowchart](project/images/Working .jpeg)]
+[![Flowchart](project/images/Working.jpeg)]
 
