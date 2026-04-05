@@ -63,3 +63,13 @@ IN ≠ OUT → System OFF
 
 👉 [Open Flowchart](project/images/Working.jpeg)
 
+##PIN CONFIGURATION in STM32 Cube IDE
+
+📌 Click below to view the Pin configuration:
+
+👉 [PIN_CONFIGURATION](project/images/Working.jpeg)
+
+
+
+
+
