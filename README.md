@@ -25,6 +25,9 @@ An intelligent safety system designed for industrial robotic zones that ensures:
 
 ## 🧠 System Working
 
+### WORKING PROTOTYPE OF PROJECT :
+[![Watch Demo](https://youtu.be/UqvlWyaQqJM.jpg)](https://youtu.be/UqvlWyaQqJM)
+
 ### 1. PPE Detection
 - Camera captures the person
 - Python AI model checks for helmet and safety vest
