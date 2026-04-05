@@ -67,7 +67,7 @@ IN ≠ OUT → System OFF
 
 📌 Click below to view the Pin configuration:
 
-👉 [PIN_CONFIGURATION](project/images/Working.jpeg)
+👉 [PIN_CONFIGURATION](project/images/PIN_CONFIGURATION.png)
 
 
 
